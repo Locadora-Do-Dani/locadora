@@ -1,2 +1,2 @@
-# locadora
+# Locadora
 Projeto de aula.
